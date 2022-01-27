@@ -1,0 +1,46 @@
+  .text {
+    width: 300px;
+    height: 200px;
+
+  }
+  #mytexts { 
+    display: flex;
+    
+  }
+
+
+  .formularios {
+    display: flex;
+    margin: 50px;
+  
+  }
+
+
+
+  .text1 {
+    background-color: rgb(67, 118, 212);
+  }
+  
+  .text2 {
+    background-color: rgb(142, 44, 155);
+  }
+  
+  .text3 {
+    background-color: rgb(167, 5, 32);
+  }
+  
+  .text4 {
+    background-color: rgb(50, 33, 53);
+  }
+  
+  .text5 {
+    background-color: rgb(222, 224, 70);
+  }
+  
+  .text6 {
+    background-color: rgb(238, 80, 80);
+  }
+  
+  .text7 {
+    background-color: rgb(4, 29, 19);
+  }
